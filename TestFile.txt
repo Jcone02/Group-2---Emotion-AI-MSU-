@@ -1,0 +1,84 @@
+{
+    "input_text": "im feeling amazing!",
+    "emotion": "Emotion: happy (Confidence: 0.42)",
+    "confidence": "Confidence: 0.42"
+}{
+    "input_text": "good",
+    "emotion": "Emotion: happy (Confidence: 0.49)",
+    "confidence": "Confidence: 0.49"
+}
+{
+    "input_text": "good",
+    "emotion": "Emotion: happy (Confidence: 0.49)",
+    "confidence": "Confidence: 0.49"
+}
+{
+    "input_text": "im feeling lovely today!",
+    "emotion": "Emotion: happy (Confidence: 0.69)",
+    "confidence": "Confidence: 0.69"
+}
+{
+    "input_text": "im feeling amazing",
+    "emotion": "Emotion: happy (Confidence: 0.40)",
+    "confidence": "Confidence: 0.40"
+}
+{
+    "input_text": "not feeling too sad today ",
+    "emotion": "Emotion: neutral (Confidence: 0.41)",
+    "confidence": "Confidence: 0.41"
+}
+{
+    "input_text": "im feeling swell can't complain",
+    "emotion": "Emotion: happy (Confidence: 0.42)",
+    "confidence": "Confidence: 0.42"
+}
+{
+    "input_text": "im feeling wonderful!",
+    "emotion": "Emotion: happy (Confidence: 0.46)",
+    "confidence": "Confidence: 0.46"
+}
+{
+    "input_text": "this is laggy",
+    "emotion": "Emotion: flustered (Confidence: 0.45)",
+    "confidence": "Confidence: 0.45"
+}
+{
+    "input_text": "im not the best",
+    "emotion": "Emotion: stressed (Confidence: 0.40)",
+    "confidence": "Confidence: 0.40"
+}
+{
+    "input_text": "im not doing well today",
+    "emotion": "Emotion: flustered (Confidence: 0.33)",
+    "confidence": "Confidence: 0.33"
+}
+{
+    "input_text": "the rain got my hair wet before class",
+    "emotion": "Emotion: flustered (Confidence: 0.39)",
+    "confidence": "Confidence: 0.39"
+}
+{
+    "input_text": "im happy as shit",
+    "emotion": "Emotion: excited (Confidence: 0.36)",
+    "confidence": "Confidence: 0.36"
+}
+{
+    "input_text": "im feeling amazing today",
+    "emotion": "Emotion: happy (Confidence: 0.47)",
+    "confidence": "Confidence: 0.47"
+}
+{
+    "input_text": "im feeling good",
+    "emotion": "Emotion: happy (Confidence: 0.55)",
+    "confidence": "Confidence: 0.55"
+}
+{
+    "input_text": "im doing well today ",
+    "emotion": "Emotion: happy (Confidence: 0.79)",
+    "Confidence": "Confidence: 0.79"
+}
+{
+    "input_text": "",
+    "emotion": "Emotion: excited (Confidence: 0.39)",
+    "confidence": "Confidence: 0.39"
+}
