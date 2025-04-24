@@ -1,0 +1,64 @@
+/* Global Styles */
+QWidget {
+    background-color: #ff6f00; /* Orange background */
+    font-family: Arial;
+    font-size: 11pt;
+}
+
+QPushButton {
+    background-color: #ff4700;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+QPushButton:hover {
+    background-color: #357ABD;
+}
+
+QLineEdit {
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+    color: black;
+}
+
+QLabel {
+    color: white;
+}
+
+/* Title Label */
+#TitleLabel {
+    color: white;
+    font-size: 22pt;
+    font-weight: bold;
+}
+
+/* Main App Area (set in your Python code as MainWidget) */
+#MainWidget {
+    background-color: #ff6f00; /* Orange background */
+}
+
+/* --- CAMERA UI STYLING --- */
+
+/* Back Button on Camera UI */
+#CameraBackButton {
+    background-color: #E94F37;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+#CameraBackButton:hover {
+    background-color: #D63C2F;
+}
+
+/* Video Display Area */
+#VideoLabel {
+    border: 5px solid #E0E0E0;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
