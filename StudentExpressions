@@ -1,0 +1,272 @@
+[
+  {
+    "student_id": 1,
+    "response": "I am so happy today!",
+    "emotion": "happy",
+    "confidence": 0.85,
+    "depression_status": "No"
+  },
+  {
+    "student_id": 2,
+    "response": "This is the worst day ever.",
+    "emotion": "anger",
+    "confidence": 0.76,
+    "depression_status": "Yes"
+  },
+  {
+    "student_id": 3,
+    "response": "I'm feeling really excited about the project.",
+    "emotion": "happy",
+    "confidence": 0.8,
+    "depression_status": "No"
+  },
+  {
+    "student_id": 4,
+    "response": "I feel anxious about the exam.",
+    "emotion": "fear",
+    "confidence": 0.68,
+    "depression_status": "Yes"
+  },
+  {
+    "student_id": 5,
+    "response": "Today was just alot.",
+    "emotion": "overwhelmed",
+    "confidence": 0.74,
+    "depression_status": "Yes"
+  },
+  {
+    "student_id": 6,
+    "response": "I'm so glad I was able to pass!",
+    "emotion": "happy",
+    "confidence": 0.9,
+    "depression_status": "No"
+  },
+  {
+    "student_id": 7,
+    "response": "I can't believe this happened!",
+    "emotion": "surprise",
+    "confidence": 0.77,
+    "depression_status": "No"
+  },
+  {
+    "student_id": 8,
+    "response": "Feeling super nervous right now.",
+    "emotion": "fear",
+    "confidence": 0.72,
+    "depression_status": "Yes"
+  },
+  {
+    "student_id": 9,
+    "response": "I'm incredibly grateful for this professor.",
+    "emotion": "excited",
+    "confidence": 0.81,
+    "depression_status": "No"
+  },
+  {
+    "student_id": 10,
+    "response": "I'm so mad at this situation!",
+    "emotion": "anger",
+    "confidence": 0.82,
+    "depression_status": "Yes"
+  },
+  {
+    "student_id": 11,
+    "response": "I almost failed the exam",
+    "emotion": "disgusted",
+    "confidence": 0.65,
+    "depression_status": "Yes"
+  },
+  {
+    "student_id": 12,
+    "response": "I failed the exam",
+    "emotion": "anger",
+    "confidence": 0.7,
+    "depression_status": "Yes"
+  },
+  {
+    "student_id": 13,
+    "response": "I have alot going on right now.",
+    "emotion": "flustered",
+    "confidence": 0.71,
+    "depression_status": "Yes"
+  },
+  {
+    "student_id": 14,
+    "response": "I barely passed the exam",
+    "emotion": "relieved",
+    "confidence": 0.79,
+    "depression_status": "No"
+  },
+  {
+    "response": "I am so happy today!",
+    "emotion": "excited",
+    "confidence": 0.85,
+    "depression_status": "No"
+  },
+  {
+    "response": "This is the worst day ever.",
+    "emotion": "overwhelmed",
+    "confidence": 0.74,
+    "depression_status": "Yes"
+  },
+  {
+    "response": "I'm feeling really excited about the project.",
+    "emotion": "excited",
+    "confidence": 0.8,
+    "depression_status": "No"
+  },
+  {
+    "response": "I feel anxious about the exam.",
+    "emotion": "anxious",
+    "confidence": 0.68,
+    "depression_status": "Yes"
+  },
+  {
+    "response": "Today was just alot.",
+    "emotion": "stressed",
+    "confidence": 0.74,
+    "depression_status": "Yes"
+  },
+  {
+    "response": "I'm so glad I was able to pass!",
+    "emotion": "relieved",
+    "confidence": 0.9,
+    "depression_status": "No"
+  },
+  {
+    "response": "I can't believe this happened!",
+    "emotion": "surprise",
+    "confidence": 0.77,
+    "depression_status": "No"
+  },
+  {
+    "response": "Feeling super nervous right now.",
+    "emotion": "anxious",
+    "confidence": 0.72,
+    "depression_status": "Yes"
+  },
+  {
+    "response": "I'm incredibly grateful for this professor.",
+    "emotion": "happy",
+    "confidence": 0.81,
+    "depression_status": "No"
+  },
+  {
+    "response": "I'm so mad at this situation!",
+    "emotion": "anger",
+    "confidence": 0.82,
+    "depression_status": "Yes"
+  },
+  {
+    "response": "I almost failed the exam",
+    "emotion": "stressed",
+    "confidence": 0.65,
+    "depression_status": "Yes"
+  },
+  {
+    "response": "I failed the exam",
+    "emotion": "flustered",
+    "confidence": 0.71,
+    "depression_status": "Yes"
+  },
+  {
+    "response": "I have alot going on right now.",
+    "emotion": "stressed",
+    "confidence": 0.71,
+    "depression_status": "Yes"
+  },
+  {
+    "response": "I barely passed the exam",
+    "emotion": "flustered",
+    "confidence": 0.67,
+    "depression_status": "No"
+  },
+  {
+    "response": "This book is great for class",
+    "emotion": "stressed",
+    "confidence": 0.1772674322128296
+  },
+  {
+    "response": "This website makes my life so much easier!",
+    "emotion": "relieved",
+    "confidence": 0.4669777452945709
+  },
+  {
+    "response": "This website makes my life so much easier!",
+    "emotion": "relieved",
+    "confidence": 0.4669777452945709
+  },
+  {
+    "response": "dishwater tast",
+    "emotion": "Conflicted",
+    "confidence": 0.18695911765098572
+  },
+  {
+    "response": "Ive done better in the rest of my classest tho!",
+    "emotion": "stressed",
+    "confidence": 0.14390023052692413
+  },
+  {
+    "response": "This feelings amazing to be ready to graduate!",
+    "emotion": "excited",
+    "confidence": 0.3296259939670563
+  },
+  {
+    "response": "im doing great in class",
+    "emotion": "happy",
+    "confidence": 0.2884630262851715
+  },
+  {
+    "response": "im doing great in class",
+    "emotion": "happy",
+    "confidence": 0.2884630262851715
+  },
+  {
+    "response": "im doing great in class",
+    "emotion": "happy",
+    "confidence": 0.2884630262851715
+  },
+  {
+    "response": "My exam is going great !",
+    "emotion": "happy",
+    "confidence": 0.3171691298484802
+  },
+  {
+    "response": "My exam is going great !",
+    "emotion": "happy",
+    "confidence": 0.3171691298484802
+  },
+  {
+    "response": "im doing swell today!",
+    "emotion": "happy",
+    "confidence": 0.5566704273223877
+  },
+  {
+    "response": "COSC649 is hard.",
+    "emotion": "stressed",
+    "confidence": 0.5546531081199646
+  },
+  {
+    "response": "This app is amazing thank you chatbot!",
+    "emotion": "relieved",
+    "confidence": 0.42855677008628845
+  },
+  {
+    "response": "This app is amazing thank you chatbot!",
+    "emotion": "relieved",
+    "confidence": 0.42855677008628845
+  },
+  {
+    "response": "This app has gotte better",
+    "emotion": "relieved",
+    "confidence": 0.3634430766105652
+  },
+  {
+    "response": "This app has gotte better",
+    "emotion": "relieved",
+    "confidence": 0.3634430766105652
+  }
+]{
+    "response": "",
+    "emotion": null
+}
