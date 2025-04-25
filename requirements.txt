@@ -1,1 +1,17 @@
+altgraph==0.17.4  
+macholib==1.16.3  
+packaging==25.0  
+pyinstaller==6.13.0  
+pyinstaller-hooks-contrib==2025.3  
+setuptools==79.0.1  
+pyqt5==5.15.10  
+pyqt5-tools==5.15.10.3.2  
+torch==2.2.2  
+transformers==4.40.1  
+fer==22.4.0  
+opencv-python==4.9.0.80  
+speechrecognition==3.10.1  
+pyaudio==0.2.14  
+numpy==1.26.4  
+scipy==1.13.0  
 
