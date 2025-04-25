@@ -29,7 +29,7 @@ class ChatBubble(QWidget):
         layout = QHBoxLayout()
         label = QLabel(text)
         label.setWordWrap(True)
-        label.setFont(QFont("Arial", 10))
+        label.setFont(QFont("Arial", 15))
         label.setStyleSheet("""
             QLabel {
                 padding: 10px;
@@ -66,7 +66,7 @@ class HelpDialog(QDialog):
             "3. Camera Mode: Detect emotions from your face via the camera.\n\n"
             "Use the Save Session button to save your conversation."
         )
-        help_text.setFont(QFont("Arial", 12))
+        help_text.setFont(QFont("Arial", 18))
         help_text.setAlignment(Qt.AlignTop)
         layout.addWidget(help_text)
 
@@ -84,7 +84,7 @@ class EmotionDetectorApp(QMainWindow):
         self.setStyleSheet("background-color: #f6f7fb;")
 
         self.classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
-        self.labels = ["happy", "sad", "angry", "surprised", "fearful", "disgusted", "neutral","Amazed","Gloomy","Depressed","Sweet","Sickly","Elated","flustered",""]
+        self.labels = ["happy", "sad", "angry", "surprised", "fearful", "disgusted", "neutral","Amazed","Gloomy","Depressed","Sweet","Sickly","Elated","flustered","Annoyed","Anxious","Confused"]
 
         self.central_widget = QWidget()
         self.central_widget.setObjectName("MainWidget")
@@ -106,7 +106,7 @@ class EmotionDetectorApp(QMainWindow):
         layout = QVBoxLayout()
 
         title = QLabel("Morgan State University AI EmotionBot")
-        title.setFont(QFont("Arial", 1200, QFont.Bold))
+        title.setFont(QFont("Arial", 12, QFont.Bold))
         title.setStyleSheet("color: #333333;")
         title.setAlignment(Qt.AlignCenter)
         title.setStyleSheet("color: #FF4700; margin-top: 20px; margin-bottom: 10px;")
@@ -126,10 +126,10 @@ class EmotionDetectorApp(QMainWindow):
 
         for btn in [text_button, voice_button, camera_button, save_button, exit_button, help_button, dark_mode_button]:
             btn.setFixedHeight(50)
-            btn.setFont(QFont("Arial", 12, QFont.Bold))
+            btn.setFont(QFont("Arial", 50, QFont.Bold))
             btn.setStyleSheet("""
                 QPushButton {
-                    background-color: #4A90E2;
+                    background-color: #FF4700;
                     color: white;
                     border: none;
                     border-radius: 8px;
@@ -156,7 +156,7 @@ class EmotionDetectorApp(QMainWindow):
                 padding: 5px 10px;
             }
             QPushButton:hover {
-                background-color: #FFFFF;
+                background-color: #FF4700;
             }
         """)
         exit_button.setFixedSize(80, 40)
