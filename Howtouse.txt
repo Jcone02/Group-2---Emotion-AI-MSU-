@@ -29,6 +29,6 @@ Running it via terminal is a common way to use it. However its not required, as 
 
 ### Install Dependencies
 
-This program comes with mulitple dependencies that may not already be on the device. Please install
+This program comes with mulitple dependencies that may not already be on the device. Please install via  your computer's terminal.
 
 pip install -r requirements.txt or pip3 install -r requirements.txt
